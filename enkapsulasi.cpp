@@ -4,6 +4,7 @@ using namespace std;
 class remoteLampu
 {
 private:
-    /* data */
+    string saklarNo(10);
+
 public:
 };
